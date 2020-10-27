@@ -1,0 +1,13 @@
+D:\Bootcamp\Labs\Lab11_ClassUML\bin\Debug\netcoreapp3.1\Lab11_ClassUML.exe
+D:\Bootcamp\Labs\Lab11_ClassUML\bin\Debug\netcoreapp3.1\Lab11_ClassUML.deps.json
+D:\Bootcamp\Labs\Lab11_ClassUML\bin\Debug\netcoreapp3.1\Lab11_ClassUML.runtimeconfig.json
+D:\Bootcamp\Labs\Lab11_ClassUML\bin\Debug\netcoreapp3.1\Lab11_ClassUML.runtimeconfig.dev.json
+D:\Bootcamp\Labs\Lab11_ClassUML\bin\Debug\netcoreapp3.1\Lab11_ClassUML.dll
+D:\Bootcamp\Labs\Lab11_ClassUML\bin\Debug\netcoreapp3.1\Lab11_ClassUML.pdb
+D:\Bootcamp\Labs\Lab11_ClassUML\obj\Debug\netcoreapp3.1\Lab11_ClassUML.csprojAssemblyReference.cache
+D:\Bootcamp\Labs\Lab11_ClassUML\obj\Debug\netcoreapp3.1\Lab11_ClassUML.AssemblyInfoInputs.cache
+D:\Bootcamp\Labs\Lab11_ClassUML\obj\Debug\netcoreapp3.1\Lab11_ClassUML.AssemblyInfo.cs
+D:\Bootcamp\Labs\Lab11_ClassUML\obj\Debug\netcoreapp3.1\Lab11_ClassUML.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Labs\Lab11_ClassUML\obj\Debug\netcoreapp3.1\Lab11_ClassUML.dll
+D:\Bootcamp\Labs\Lab11_ClassUML\obj\Debug\netcoreapp3.1\Lab11_ClassUML.pdb
+D:\Bootcamp\Labs\Lab11_ClassUML\obj\Debug\netcoreapp3.1\Lab11_ClassUML.genruntimeconfig.cache
